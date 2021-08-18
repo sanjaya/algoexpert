@@ -1,0 +1,1 @@
+This repo have algorithm questions and their answers
